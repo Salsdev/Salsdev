@@ -6,7 +6,7 @@ Passionate Software Engineer | Front-End Developer
 
 I love code!!
 
-* 🌍  I'm based in Nigeriai.
+* 🌍  I'm based in Nigeria.
 * ✉️  You can contact me at [salehaliyu111@gmail.com](mailto:salehaliyu111@gmail.com)
 * 🧠  I'm learning Python.
 
